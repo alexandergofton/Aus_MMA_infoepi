@@ -94,6 +94,7 @@ if __name__ == "__main__":
         "alpha gal",
         "mammalian meat allergy",
         "red meat allergy",
+        "meat allergy",
         "paralysis tick",
         "alpha-gal syndrome",
         "tick allergy",
